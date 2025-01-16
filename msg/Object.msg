@@ -69,3 +69,6 @@ zed_interfaces/Skeleton3D skeleton_3d
 
 # Confidence levels for each of the skeleton keypoints
 float32[70] skeleton_keypoint_confidence
+
+# Eye-contact detection score
+float32 eye_contact_confidence
